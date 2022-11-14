@@ -1,0 +1,5 @@
+export const GET_TABLE_DATA = 'GET_TABLE_DATA';
+export const SET_TABLE_ERROR = 'SET_TABLE_ERROR';
+export const SET_IS_FETCHING = 'SET_IS_FETCHING';
+export const SET_TABLE_DATA = 'SET_TABLE_DATA';
+export const SET_SUCCESS = 'SET_SUCCESS';
